@@ -508,6 +508,9 @@ hr {
     font-weight: bold;
     z-index: 10;
     font-size: 30px; }
+  .tile.tile-0 .tile-inner {
+    color: #ffffff;
+    background: #bcc7d9; }
   .tile.tile-1 .tile-inner {
     color: #ffffff;
     background: #7cbcf9; }
@@ -556,9 +559,18 @@ hr {
   .tile.tile-16 .tile-inner {
     color: #ffffff;
     background: #0c4bba; }
+  .tile.tile-81 .tile-inner {
+    color: #5de33f;
+    background: #0e185b; }
   .tile.tile-82 .tile-inner {
     color: #e9b895;
     background: #a97d5e; }
+  .tile.tile-83 .tile-inner {
+    color: #ecc832;
+    background: #1d6740; }
+  .tile.tile-84 .tile-inner {
+    color: #357f27;
+    background: #a3b253; }
 
 
 @-webkit-keyframes appear {
